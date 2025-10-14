@@ -1,0 +1,4 @@
+﻿jv.umsa.bo
+codeforces.com
+codechef.com
+uva.onlinejudge.com
